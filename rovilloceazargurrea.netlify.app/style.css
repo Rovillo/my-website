@@ -1,0 +1,30 @@
+*, body {
+    margin: 0;
+}
+
+h1 {
+    width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.front-title {
+    background: black;
+    padding: 20px;
+    display: block;
+}
+
+.menu-bar {
+    background: gray;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    background: blue;
+}
